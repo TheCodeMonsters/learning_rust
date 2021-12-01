@@ -5,7 +5,7 @@ Codigo, snippets, mini-tutos, u otros recursos que sean de utilidad.
 ¡Puedes aportar!, haz tu fork y tu pull request para hacer mejoras que creas convenientes.
 
 
-**Colección de contenidos y recursos para desarrolladores de JavaScript**
+**Colección de contenidos y recursos para desarrolladores de Rust**
 
 ### Contenidos:
 
