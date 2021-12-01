@@ -42,16 +42,23 @@ Codigo, snippets, mini-tutos, u otros recursos que sean de utilidad.
 
 
 ### 📺 Videos y canales
-- https://www.youtube.com/c/LetsGetRusty/videos (inglés)
-- https://www.youtube.com/c/robertohuertasm/playlists (español)
-- https://www.youtube.com/c/LuisSerranoDonaire/videos (español)
-- https://www.youtube.com/playlist?list=PL39ZlG-MyGa5U0RHeTbQ5GQFtL6qjSjNA (español)
+  * [The Rust Lang Book](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8) gratis en youtube por [LetsGetRusty](https://www.youtube.com/c/LetsGetRusty)
+
+  * [Rust, sesiones prácticas - API REST](https://www.youtube.com/playlist?list=PLojDVPvSO1Di_QEnvDOI5FIeieqYpm1xd) gratis en youtube por [robertohuertasm](https://www.youtube.com/c/robertohuertasm/)
+
+  * [Rust en español](https://www.youtube.com/playlist?list=PLojDVPvSO1DjYj8bMcMOU3KzLbRww-3Eb) gratis en youtube por [robertohuertasm](https://www.youtube.com/c/robertohuertasm/)
+
+  * [Curso de RUST desde CERO](https://www.youtube.com/playlist?list=PLAMfQH2NKM_tyKzBV1iJf5L8j7oJl6KHl) gratis en youtube por [LuisSerranoDonaire](https://www.youtube.com/c/LuisSerranoDonaire/)
+
+  * [Rust & C/ C++]( https://www.youtube.com/playlist?list=PL39ZlG-MyGa5U0RHeTbQ5GQFtL6qjSjNA) gratis en youtube por [Grinch Code](https://www.youtube.com/channel/UC5E3Jh6qL6JJT_fYFyq_TEA)
 
 ### 📚 Libros
-- https://doc.rust-lang.org/book (inglés)
-- https://www.oreilly.com/library/view/programming-rust-2nd (inglés)
-- https://nostarch.com/rust-rustaceans (inglés)
-- https://www.rustinaction.com/ (inglés)
+
+
+* [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) - Rust for Rustaceans - Ingles
+* [Rust in Action](https://www.rustinaction.com/) - Systems programming concepts and techniques - Ingles
+
+
 
 ### 👨‍🏫 Charlas y presentaciones
 
@@ -73,10 +80,14 @@ Codigo, snippets, mini-tutos, u otros recursos que sean de utilidad.
 ### 📃 Tutoriales
   * [Rust Programming Tutorials](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL) gratis en youtube por [dcode](https://www.youtube.com/c/dcode-software)
 
+
 ### 💀 Post Mortems
 
 
 ### 📌 Miscelaneos
+
+  * [LearningRust](https://github.com/Kreedzt/LearningRust) - Repositorio de recursos por  [Kreedzt](https://github.com/Kreedzt)
+
 
 
 ### 🔖 Ejercicios:
