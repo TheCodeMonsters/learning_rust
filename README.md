@@ -87,7 +87,7 @@ Codigo, snippets, mini-tutos, u otros recursos que sean de utilidad.
 ### 📌 Miscelaneos
 
   * [LearningRust](https://github.com/Kreedzt/LearningRust) - Repositorio de recursos por  [Kreedzt](https://github.com/Kreedzt)
-
+  * [Rust Language Cheat Sheet](https://github.com/ralfbiedert/cheats.rs) - Repositorio de recursos por  [ralfbiedert](https://github.com/ralfbiedert)
 
 
 ### 🔖 Ejercicios:
