@@ -17,6 +17,8 @@ Videos:
 - https://www.youtube.com/c/robertohuertasm/playlists (español)
 - https://www.youtube.com/c/LuisSerranoDonaire/videos (español)
 - https://www.youtube.com/playlist?list=PL39ZlG-MyGa5U0RHeTbQ5GQFtL6qjSjNA (español)
+
+Cursos
 - https://www.udemy.com/course/aprende-a-programar-con-rust (español)
 
 Ejercicios:
