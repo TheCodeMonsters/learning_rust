@@ -39,10 +39,11 @@ Codigo, snippets, mini-tutos, u otros recursos que sean de utilidad.
 
 
 ### 🗒️ Blogs
+  * [How to build a blockchain in Rust](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/) blog post [Mario Zupan](https://www.youtube.com/c/LetsGetRusty)
 
 
 ### 📺 Videos y canales
-  * [The Rust Lang Book](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8) gratis en youtube por [LetsGetRusty](https://www.youtube.com/c/LetsGetRusty)
+  * [The Rust Lang Book](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8) gratis en youtube por [LetsGetRusty](https://blog.logrocket.com/author/mariozupan/)
 
   * [Rust, sesiones prácticas - API REST](https://www.youtube.com/playlist?list=PLojDVPvSO1Di_QEnvDOI5FIeieqYpm1xd) gratis en youtube por [robertohuertasm](https://www.youtube.com/c/robertohuertasm/)
 
